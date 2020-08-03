@@ -1,0 +1,36 @@
+{
+  "name": "besthorrorscenes-nico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazybirdz/besthorrorscenes-nico.git"
+  },
+  "author": "Crazybirdz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazybirdz/besthorrorscenes-nico/issues"
+  },
+  "homepage": "https://github.com/crazybirdz/besthorrorscenes-nico#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.11.0",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/register": "^7.10.5",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-cli": "^2.3.0",
+    "gulp-csso": "^4.0.1",
+    "gulp-image": "^6.2.1",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
